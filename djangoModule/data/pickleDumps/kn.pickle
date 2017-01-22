@@ -84,15 +84,15 @@ p32
 ssI10
 (dp33
 g2
-Vprize
+Vwifi_avail
 p34
 sg4
-S'Yes, Top 3 teams will be rewarded with money and certificates'
+S'Yes, internet conenction, charging points and sockets will be available'
 p35
 ssI11
 (dp36
 g2
-Vwin_prize
+Vprize
 p37
 sg4
 S'Yes, Top 3 teams will be rewarded with money and certificates'
@@ -100,15 +100,15 @@ p38
 ssI12
 (dp39
 g2
-Vplace_regist_event
+Vwin_prize
 p40
 sg4
-S'From the desk or from the website'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p41
 ssI13
 (dp42
 g2
-Vplace_regist_hackathon
+Vplace_regist_event
 p43
 sg4
 S'From the desk or from the website'
@@ -116,7 +116,7 @@ p44
 ssI14
 (dp45
 g2
-Vregist_event
+Vplace_regist_hackathon
 p46
 sg4
 S'From the desk or from the website'
@@ -124,7 +124,7 @@ p47
 ssI15
 (dp48
 g2
-Vregist_hackathon
+Vregist_event
 p49
 sg4
 S'From the desk or from the website'
@@ -132,23 +132,23 @@ p50
 ssI16
 (dp51
 g2
-Vlibrari_allow
+Vregist_hackathon
 p52
 sg4
-S'Yes, you can make use of Open source libraries, softwaresor APIs'
+S'From the desk or from the website'
 p53
 ssI17
 (dp54
 g2
-Vdress_code
+Vlibrari_allow
 p55
 sg4
-S'No dress code needs to be followed'
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
 p56
 ssI18
 (dp57
 g2
-Vdress_code_follow
+Vdress_code
 p58
 sg4
 S'No dress code needs to be followed'
@@ -156,143 +156,143 @@ p59
 ssI19
 (dp60
 g2
-Vhowdi
+Vdress_code_follow
 p61
 sg4
-S'Hi, there!'
+S'No dress code needs to be followed'
 p62
 ssI20
 (dp63
 g2
-Vperson_judg
+Vhowdi
 p64
 sg4
-S"What's the fun in revealing everything"
+S'Hi, there!'
 p65
 ssI21
 (dp66
 g2
-Vnumber_team_shortlist_round_1
+Vperson_judg
 p67
 sg4
-S'Get in top 10-12 teams'
+S"What's the fun in revealing everything"
 p68
 ssI22
 (dp69
 g2
-Vmuch_particip_fee
+Vnumber_team_shortlist_round_1
 p70
 sg4
-S'Free'
+S'Get in top 10-12 teams'
 p71
 ssI23
 (dp72
 g2
-Vselect_criteria_round_1
+Vmuch_particip_fee
 p73
 sg4
-S'Atleast One feature working end-to -end'
+S'Free'
 p74
 ssI24
 (dp75
 g2
-Vmentor
+Vselect_criteria_round_1
 p76
 sg4
-S"What's the fun in revealing everything"
+S'Atleast One feature working end-to -end'
 p77
 ssI25
 (dp78
 g2
-Vnumber_minimum_team_member_requir
+Vnet_connect
 p79
 sg4
-S'Team of 2-4 Members'
+S'Yes, internet conenction, charging points and sockets will be available'
 p80
 ssI26
 (dp81
 g2
-Vqualifi_round_1
+Vnumber_minimum_team_member_requir
 p82
 sg4
-S'Get in top 10-12 teams'
+S'Team of 2-4 Members'
 p83
 ssI27
 (dp84
 g2
-S'long_hackathon'
+Vqualifi_round_1
 p85
 sg4
-S'8 hours'
+S'Get in top 10-12 teams'
 p86
 ssI28
 (dp87
 g2
-Vopen_sourc_softwar_allow
+S'long_hackathon'
 p88
 sg4
-S'Yes, you can make use of Open source libraries, softwaresor APIs'
+S'8 hours'
 p89
 ssI29
 (dp90
 g2
-Vcharg_station
+Vopen_sourc_softwar_allow
 p91
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
 p92
 ssI30
 (dp93
 g2
-S'place_hackathon'
+Vcharg_station
 p94
 sg4
-S'7:00:00 AM'
+S'Yes, internet conenction, charging points and sockets will be available'
 p95
 ssI31
 (dp96
 g2
-Vwear_casual_cloth
+S'place_hackathon'
 p97
 sg4
-S'No dress code needs to be followed'
+S'7:00:00 AM'
 p98
 ssI32
 (dp99
 g2
-Vnumber_peopl_particip
+Vwear_casual_cloth
 p100
 sg4
-S'Team of 2-4 Members'
+S'No dress code needs to be followed'
 p101
 ssI33
 (dp102
 g2
-S'hey'
+Vnumber_peopl_particip
 p103
 sg4
-S'Hi, there!'
+S'Team of 2-4 Members'
 p104
 ssI34
 (dp105
 g2
-Vmaximum_team_member
+S'hey'
 p106
 sg4
-S'Team of 2-4 Members'
+S'Hi, there!'
 p107
 ssI35
 (dp108
 g2
-S'hi'
+Vmentor
 p109
 sg4
-S'Hi, there!'
+S"What's the fun in revealing everything"
 p110
 ssI36
 (dp111
 g2
-S'team_size'
+Vmaximum_team_member
 p112
 sg4
 S'Team of 2-4 Members'
@@ -300,137 +300,161 @@ p113
 ssI37
 (dp114
 g2
-Vuse_open_sourc_softwar
+S'hi'
 p115
 sg4
-S'Yes, you can make use of Open source libraries, softwaresor APIs'
+S'Hi, there!'
 p116
 ssI38
 (dp117
 g2
-Vregistr_charg
+S'team_size'
 p118
 sg4
-S'Free'
+S'Team of 2-4 Members'
 p119
 ssI39
 (dp120
 g2
-Vplug_point
+Vuse_open_sourc_softwar
 p121
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
 p122
 ssI40
 (dp123
 g2
-Vsocket
+Vregistr_charg
 p124
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Free'
 p125
 ssI41
 (dp126
 g2
-Vcontact_case_issu
+Vplug_point
 p127
 sg4
-S'Any CSI Member will guide you for the event'
+S'Yes, internet conenction, charging points and sockets will be available'
 p128
 ssI42
 (dp129
 g2
-Vselect_multipl_problem_statement
+Vsocket
 p130
 sg4
-S'Only One problem statement is allowed'
+S'Yes, internet conenction, charging points and sockets will be available'
 p131
 ssI43
 (dp132
 g2
-Velectr_socket
+Vcontact_case_issu
 p133
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Any CSI Member will guide you for the event'
 p134
 ssI44
 (dp135
 g2
-S'full_form_csi'
+Vselect_multipl_problem_statement
 p136
 sg4
-S'Computer Society of india'
+S'Only One problem statement is allowed'
 p137
 ssI45
 (dp138
 g2
-Vget_certif
+Velectr_socket
 p139
 sg4
-S'Yes, Top 3 teams will be rewarded with money and certificates'
+S'Yes, internet conenction, charging points and sockets will be available'
 p140
 ssI46
 (dp141
 g2
-S'time_hackathon'
+S'full_form_csi'
 p142
 sg4
-S'7:00:00 AM'
+S'Computer Society of india'
 p143
 ssI47
 (dp144
 g2
-Vperson_particip
+Vget_certif
 p145
 sg4
-S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p146
 ssI48
 (dp147
 g2
-Vreport_time
+S'wifi'
 p148
 sg4
-S'7:00:00 AM'
+S'Yes, internet conenction, charging points and sockets will be available'
 p149
 ssI49
 (dp150
 g2
-Vnumber_team_qualifi_round_1
+S'time_hackathon'
 p151
 sg4
-S'Get in top 10-12 teams'
+S'7:00:00 AM'
 p152
 ssI50
 (dp153
 g2
-Vpower_suppli
+Vperson_particip
 p154
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'
 p155
 ssI51
 (dp156
 g2
-Vnumber_maximum_team_member_allow
+Vreport_time
 p157
 sg4
-S'Team of 2-4 Members'
+S'7:00:00 AM'
 p158
 ssI52
 (dp159
 g2
-Vnumber_minimum_team_member_necessari
+Vnumber_team_qualifi_round_1
 p160
 sg4
-S'Team of 2-4 Members'
+S'Get in top 10-12 teams'
 p161
 ssI53
 (dp162
 g2
-S'hello'
+Vpower_suppli
 p163
 sg4
-S'Hi, there!'
+S'Yes, internet conenction, charging points and sockets will be available'
 p164
+ssI54
+(dp165
+g2
+Vnumber_maximum_team_member_allow
+p166
+sg4
+S'Team of 2-4 Members'
+p167
+ssI55
+(dp168
+g2
+Vnumber_minimum_team_member_necessari
+p169
+sg4
+S'Team of 2-4 Members'
+p170
+ssI56
+(dp171
+g2
+S'hello'
+p172
+sg4
+S'Hi, there!'
+p173
 ss.
