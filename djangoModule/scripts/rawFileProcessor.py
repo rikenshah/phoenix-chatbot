@@ -46,7 +46,6 @@ class rawFileProcessor(object):
         question_map = {
 	    'when' : 'time',
 	    'where' : 'place',
-	    'who' : 'person',
 	    'venue' : 'place',
 	    'me' : 'person',
         'many' : 'number',
