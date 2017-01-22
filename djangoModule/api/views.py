@@ -34,9 +34,6 @@ def index(request):
 
 		print numCommon
 
-		
-		
-		print a
 
 		# if numCommon==0 or numCommon==1:
 		# 	tempScore = 0;
