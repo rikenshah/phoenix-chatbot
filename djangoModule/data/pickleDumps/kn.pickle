@@ -20,7 +20,7 @@ p8
 ssI2
 (dp9
 g2
-Vperson_conduct_hackathon
+Vconduct_hackathon
 p10
 sg4
 S'Computer Society of india'
@@ -44,15 +44,15 @@ p17
 ssI5
 (dp18
 g2
-Vsample_data.txttodayharsh_patel_upload_item3:27_pmtextsample_data.txtno_record_activ_januari_22_,_2017what_time_hackathon
+S'hey'
 p19
 sg4
-S'7:00:00 AM'
+S'Hi, there!'
 p20
 ssI6
 (dp21
 g2
-Vperson_mentor
+Vmentor
 p22
 sg4
 S"What's the fun in revealing everything"
@@ -172,7 +172,7 @@ p65
 ssI21
 (dp66
 g2
-Vperson_judg
+Vjudg
 p67
 sg4
 S"What's the fun in revealing everything"
@@ -276,63 +276,63 @@ p104
 ssI34
 (dp105
 g2
-S'hey'
+Vmentor
 p106
 sg4
-S'Hi, there!'
+S"What's the fun in revealing everything"
 p107
 ssI35
 (dp108
 g2
-Vmentor
+Vmaximum_team_member
 p109
 sg4
-S"What's the fun in revealing everything"
+S'Team of 2-4 Members'
 p110
 ssI36
 (dp111
 g2
-Vmaximum_team_member
+S'hi'
 p112
 sg4
-S'Team of 2-4 Members'
+S'Hi, there!'
 p113
 ssI37
 (dp114
 g2
-S'hi'
+S'team_size'
 p115
 sg4
-S'Hi, there!'
+S'Team of 2-4 Members'
 p116
 ssI38
 (dp117
 g2
-S'team_size'
+Vuse_open_sourc_softwar
 p118
 sg4
-S'Team of 2-4 Members'
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
 p119
 ssI39
 (dp120
 g2
-Vuse_open_sourc_softwar
+Vregistr_charg
 p121
 sg4
-S'Yes, you can make use of Open source libraries, softwaresor APIs'
+S'Free'
 p122
 ssI40
 (dp123
 g2
-Vregistr_charg
+Vplug_point
 p124
 sg4
-S'Free'
+S'Yes, internet conenction, charging points and sockets will be available'
 p125
 ssI41
 (dp126
 g2
-Vplug_point
+Vsocket
 p127
 sg4
 S'Yes, internet conenction, charging points and sockets will be available'
@@ -340,50 +340,50 @@ p128
 ssI42
 (dp129
 g2
-Vsocket
+Vcontact_case_issu
 p130
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Any CSI Member will guide you for the event'
 p131
 ssI43
 (dp132
 g2
-Vcontact_case_issu
+Vselect_multipl_problem_statement
 p133
 sg4
-S'Any CSI Member will guide you for the event'
+S'Only One problem statement is allowed'
 p134
 ssI44
 (dp135
 g2
-Vselect_multipl_problem_statement
+Velectr_socket
 p136
 sg4
-S'Only One problem statement is allowed'
+S'Yes, internet conenction, charging points and sockets will be available'
 p137
 ssI45
 (dp138
 g2
-Velectr_socket
+S'full_form_csi'
 p139
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Computer Society of india'
 p140
 ssI46
 (dp141
 g2
-S'full_form_csi'
+Vget_certif
 p142
 sg4
-S'Computer Society of india'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p143
 ssI47
 (dp144
 g2
-Vget_certif
+S'time_hackathon'
 p145
 sg4
-S'Yes, Top 3 teams will be rewarded with money and certificates'
+S'7:00:00 AM'
 p146
 ssI48
 (dp147
@@ -404,7 +404,7 @@ p152
 ssI50
 (dp153
 g2
-Vperson_particip
+Vparticip
 p154
 sg4
 S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'

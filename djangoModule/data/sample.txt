@@ -1,11 +1,3 @@
-sample_data.txt
-Today
-harsh patel uploaded an item
-3:27 PM
-Text
-sample_data.txt
-No recorded activity before January 22, 2017
-
 What is the time of the hackathon?___7:00:00 AM;;
 At what time is the hackathon?___7:00:00 AM;;
 Where is the hackathon?___7:00:00 AM;;
