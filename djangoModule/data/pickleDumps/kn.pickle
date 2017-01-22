@@ -1,0 +1,132 @@
+(dp0
+I0
+(dp1
+S'keywords'
+p2
+Vregist_event
+p3
+sS'answer'
+p4
+S'From the desk or from the website'
+p5
+ssI1
+(dp6
+g2
+Vcontact_case_issu
+p7
+sg4
+S'Any CSI Member will guide you for the event'
+p8
+ssI2
+(dp9
+g2
+Vinternet_connect
+p10
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p11
+ssI3
+(dp12
+g2
+S'long_hackathon'
+p13
+sg4
+S'8 hours'
+p14
+ssI4
+(dp15
+g2
+Vdefin_full_form_csi
+p16
+sg4
+S'Computer Society of india'
+p17
+ssI5
+(dp18
+g2
+Vselect_multipl_problem_statement
+p19
+sg4
+S'Only One problem statement is allowed'
+p20
+ssI6
+(dp21
+g2
+Vdefin_prize
+p22
+sg4
+S'Yes, Top 3 teams will be rewarded with money and certificates'
+p23
+ssI7
+(dp24
+g2
+Vdress_code_follow
+p25
+sg4
+S'No dress code needs to be followed'
+p26
+ssI8
+(dp27
+g2
+Vperson_particip
+p28
+sg4
+S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'
+p29
+ssI9
+(dp30
+g2
+Vdefin_time_hackathon
+p31
+sg4
+S'7:00:00 AM'
+p32
+ssI10
+(dp33
+g2
+Vdefin_team_size
+p34
+sg4
+S'Team of 2-4 Members'
+p35
+ssI11
+(dp36
+g2
+Vopen_sourc_softwar_allow
+p37
+sg4
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
+p38
+ssI12
+(dp39
+g2
+Vmuch_particip_fee
+p40
+sg4
+S'Free'
+p41
+ssI13
+(dp42
+g2
+Vnumber_team_qualifi_round_1
+p43
+sg4
+S'Get in top 10-12 teams'
+p44
+ssI14
+(dp45
+g2
+Vdefin_select_criteria_round_1
+p46
+sg4
+S'Atleast One feature working end-to -end'
+p47
+ssI15
+(dp48
+g2
+Vperson_mentor
+p49
+sg4
+S"What's the fun in revealing everything"
+p50
+ss.

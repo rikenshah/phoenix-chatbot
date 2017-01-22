@@ -1,4 +1,4 @@
-import pprint
+import pprint, re
 from nltk.corpus import stopwords
 from collections import OrderedDict
 from nltk.tokenize import word_tokenize
@@ -26,7 +26,8 @@ class rawFileProcessor(object):
             if len(stripped_list) != 2:
                 print "No list"
             else:
-                questions.append(stripped_list[0].replace('\n',''))
+                temp = stripped_list[0].replace('\n','').replace("?","")
+                questions.append(temp)
                 answers.append(stripped_list[1])
 
         # print knowledgeBase
@@ -35,7 +36,7 @@ class rawFileProcessor(object):
 
         knowledgeBase = dict(zip(questions, answers))
 
-        pprint.pprint(knowledgeBase)
+        # pprint.pprint(knowledgeBase)
         return knowledgeBase
 
     def extract_keywords(self,query):
@@ -64,4 +65,5 @@ class rawFileProcessor(object):
         # Stemming using porter stemmer
         ps = PorterStemmer()
         stem_words = [ ps.stem(word) for word in filtered_words]
-        print stem_words
+        # print stem_words
+        return stem_words
