@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from scripts import rawFileProcessor
 import pickle
 from django.http import JsonResponse
+from nltk.corpus import wordnet
 
 def index(request):
 	# if this is a POST request we need to process the form data
@@ -10,20 +11,34 @@ def index(request):
 
 		# print request.data
 		query = request.GET.get('query')
-		print query
+		print "Query is_______" + query
 
 		rp = rawFileProcessor.rawFileProcessor()
 		query_keywords = rp.extract_keywords(query)
+
+		print "query_keywords"
+		print query_keywords
+
 
 		with open("data/pickleDumps/kn.pickle", "rb") as input_file:
 			c = pickle.load(input_file)
 
 		print c
+		maxKey = 0
 		for key,value in c.iteritems():
-			print value['keywords']
+			temp1 = value['keywords'].split("_")
+			print " keywords"
+			print temp1
+			numCommon = len(list(set(temp1).intersection(query_keywords)))
+			if numCommon>maxKey:
+				maxKey = key
+
+		print "matched keywords" + c[maxKey]['keywords']	
+		answer = c[maxKey]['answer']
+		print "answer is :"+answer
 
 		# return json response
-		return JsonResponse({'answer' : 'invalid request'})
+		return JsonResponse({'answer' : answer})
 
 
 

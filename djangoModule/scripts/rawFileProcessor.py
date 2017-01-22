@@ -50,7 +50,6 @@ class rawFileProcessor(object):
 	    'venue' : 'place',
 	    'me' : 'person',
         'many' : 'number',
-        'what' : 'define'
         }
 
         # Apply question map
