@@ -1,4 +1,7 @@
 from django import forms
 
-class TrainingForm(forms.Form):
-    inputText = forms.CharField(label='Query', max_length=2000,widget=forms.Textarea)
+class DocumentForm(forms.Form):
+    docfile = forms.FileField(
+        label='Select a file',
+        help_text='max. 42 megabytes'
+    )

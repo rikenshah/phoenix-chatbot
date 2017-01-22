@@ -1,50 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>Input</title>
-  {% load static %}
-  <!-- Bootstrap -->
-  <link href="{% static "bootstrap/css/bootstrap.min.css" %}" rel="stylesheet">
-
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-      <![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Minimal Django File Upload Example</title>   
     </head>
     <body>
-      <h1>{{ title }}</h1>
+    <!-- List of uploaded documents -->
+    <!-- {% if documents %}
+        <ul>
+        {% for document in documents %}
+            <li><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No documents.</p>
+    {% endif %} -->
 
-      Number of Queries:<input type="text" id="member" name="member" value=""><br />
-      <button id="btn" onclick="addinputFields()">Button</button>
-      <div id="container"/>
-
-
-      <form action="/training/" method="post">
-        {% csrf_token %}
-
-        <input type="submit" value="Submit" />
-      </form>
-      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-      <script type="text/javascript">
-        function addinputFields(){
-          var number = document.getElementById("member").value;
-          for (i=0;i<number;i++){
-            var input = document.createElement("input");
-            input.type = "text";
-            input.label = "Query"
-            container.appendChild(input);
-            container.appendChild(document.createElement("br"));
-          }
-        }
-      </script>
-      <!-- Include all compiled plugins (below), or include individual files as needed -->
-      <script src="{% static "bootstrap/js/bootstrap.min.js" %}"></script>
+        <!-- Upload form. Note enctype attribute! -->
+        <form action="/training/upload/" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+            <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+            <p>
+                {{ form.docfile.errors }}
+                {{ form.docfile }}
+            </p>
+            <p><input type="submit" value="Upload" /></p>
+        </form>
     </body>
-    </html>
+</html> 
