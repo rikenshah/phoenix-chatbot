@@ -1,16 +1,67 @@
+sample_data.txt
+Today
+harsh patel uploaded an item
+3:27 PM
+Text
+sample_data.txt
+No recorded activity before January 22, 2017
+
 What is the time of the hackathon?___7:00:00 AM;;
+At what time is the hackathon?___7:00:00 AM;;
+Where is the hackathon?___7:00:00 AM;;
+What is the reporting time?___7:00:00 AM;;
 What is the prize?___Yes, Top 3 teams will be rewarded with money and certificates;;
+Are there any prizes?___Yes, Top 3 teams will be rewarded with money and certificates;;
+Do we get certificates?___Yes, Top 3 teams will be rewarded with money and certificates;;
+What is the winning prize?___Yes, Top 3 teams will be rewarded with money and certificates;;
 What is the full form of CSI___Computer Society of india;;
+Who is conducting the hackathon?___Computer Society of india;;
 How long will the hackathon be?___8 hours;;
+How long is the hackathon?___8 hours;;
+What is the duration of the hackathon?___8 hours;;
 How much is the participation fee?___Free;;
+Are there any registration charges?___Free;;
+How can I register for the event?___From the desk or from the website;;
+How can I register for the hackathon?___From the desk or from the website;;
+Where can I register for the event?___From the desk or from the website;;
+Where can I register for the hackathon?___From the desk or from the website;;
+Where do I register?___From the desk or from the website;
+Where can I register?___From the desk or from the website;
 How can I register for the event?___From the desk or from the website;;
 What is the team size?___Team of 2-4 Members;;
+Minimum team size?___Team of 2-4 Members;;
+How many minimum team members are required?___Team of 2-4 Members;;
+How many minimum team members are necessary?___Team of 2-4 Members;;
+Maximum team size?___Team of 2-4 Members;;
+How many maximum team members are allowed?___Team of 2-4 Members;;
+Maximum team members?___Team of 2-4 Members;;
+How many people can participate?___Team of 2-4 Members;;
 Will there be internet connectivity?___Yes, internet conenction, charging points and sockets will be available;;
+Will there be charging stations?___Yes, internet conenction, charging points and sockets will be available;;
+Will there be plug points?___Yes, internet conenction, charging points and sockets will be available;;
+Will there be electrical sockets?___Yes, internet conenction, charging points and sockets will be available;;
+Will there be power supply?___Yes, internet conenction, charging points and sockets will be available;;
+Will there be sockets?___Yes, internet conenction, charging points and sockets will be available;;
 How many teams will be qualified for Round 1?___Get in top 10-12 teams;;
+How many teams will be shortlisted for Round 1?___Get in top 10-12 teams;;
+How do we qualify for Round 1?___Get in top 10-12 teams;;
+What is the selection criteria for Round 1?___Atleast One feature working end-to -end;;
 What is the selection criteria for Round 1?___Atleast One feature working end-to -end;;
 Who all can participate?___No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate;;
 Can we select multiple problem statements?___Only One problem statement is allowed;;
 Is there any dress code to be followed?___No dress code needs to be followed;;
+Is there any dress code?___No dress code needs to be followed;;
+Can we wear casual clothes?___No dress code needs to be followed;;
 Who are the mentors?___What's the fun in revealing everything;;
+Who are the judges?___What's the fun in revealing everything;;
+What will the mentors do?___What's the fun in revealing everything;;
 Whom should we contact in case of any issue?___Any CSI Member will guide you for the event;;
 Are open source softwares allowed?___Yes, you can make use of Open source libraries, softwaresor APIs;;
+Can we use open source softwares?___Yes, you can make use of Open source libraries, softwaresor APIs;;
+Are libraries allowed?___Yes, you can make use of Open source libraries, softwaresor APIs;;
+Can we use APIs?___Yes, you can make use of Open source libraries, softwaresor APIs;;
+Are open source softwares allowed?___Yes, you can make use of Open source libraries, softwaresor APIs;;
+hi___Hi, there!;;
+hello___Hi, there!;;
+howdy___Hi, there!;;
+Hey___Hi, there!;;

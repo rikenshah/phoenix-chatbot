@@ -3,130 +3,434 @@ I0
 (dp1
 S'keywords'
 p2
-Vregist_event
+Vinternet_connect
 p3
 sS'answer'
 p4
-S'From the desk or from the website'
+S'Yes, internet conenction, charging points and sockets will be available'
 p5
 ssI1
 (dp6
 g2
-Vcontact_case_issu
+Vdurat_hackathon
 p7
 sg4
-S'Any CSI Member will guide you for the event'
+S'8 hours'
 p8
 ssI2
 (dp9
 g2
-Vinternet_connect
+Vperson_conduct_hackathon
 p10
 sg4
-S'Yes, internet conenction, charging points and sockets will be available'
+S'Computer Society of india'
 p11
 ssI3
 (dp12
 g2
-S'long_hackathon'
+S'prize'
 p13
 sg4
-S'8 hours'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p14
 ssI4
 (dp15
 g2
-Vdefin_full_form_csi
+S'long_hackathon'
 p16
 sg4
-S'Computer Society of india'
+S'8 hours'
 p17
 ssI5
 (dp18
 g2
-Vselect_multipl_problem_statement
+Vsample_data.txttodayharsh_patel_upload_item3:27_pmtextsample_data.txtno_record_activ_januari_22_,_2017what_time_hackathon
 p19
 sg4
-S'Only One problem statement is allowed'
+S'7:00:00 AM'
 p20
 ssI6
 (dp21
 g2
-Vdefin_prize
+Vperson_mentor
 p22
 sg4
-S'Yes, Top 3 teams will be rewarded with money and certificates'
+S"What's the fun in revealing everything"
 p23
 ssI7
 (dp24
 g2
-Vdress_code_follow
+Vuse_api
 p25
 sg4
-S'No dress code needs to be followed'
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
 p26
 ssI8
 (dp27
 g2
-Vperson_particip
+S'maximum_team_size'
 p28
 sg4
-S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'
+S'Team of 2-4 Members'
 p29
 ssI9
 (dp30
 g2
-Vdefin_time_hackathon
+S'minimum_team_size'
 p31
 sg4
-S'7:00:00 AM'
+S'Team of 2-4 Members'
 p32
 ssI10
 (dp33
 g2
-Vdefin_team_size
+Vprize
 p34
 sg4
-S'Team of 2-4 Members'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p35
 ssI11
 (dp36
 g2
-Vopen_sourc_softwar_allow
+Vwin_prize
 p37
 sg4
-S'Yes, you can make use of Open source libraries, softwaresor APIs'
+S'Yes, Top 3 teams will be rewarded with money and certificates'
 p38
 ssI12
 (dp39
 g2
-Vmuch_particip_fee
+Vplace_regist_event
 p40
 sg4
-S'Free'
+S'From the desk or from the website'
 p41
 ssI13
 (dp42
 g2
-Vnumber_team_qualifi_round_1
+Vplace_regist_hackathon
 p43
 sg4
-S'Get in top 10-12 teams'
+S'From the desk or from the website'
 p44
 ssI14
 (dp45
 g2
-Vdefin_select_criteria_round_1
+Vregist_event
 p46
 sg4
-S'Atleast One feature working end-to -end'
+S'From the desk or from the website'
 p47
 ssI15
 (dp48
 g2
-Vperson_mentor
+Vregist_hackathon
 p49
 sg4
-S"What's the fun in revealing everything"
+S'From the desk or from the website'
 p50
+ssI16
+(dp51
+g2
+Vlibrari_allow
+p52
+sg4
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
+p53
+ssI17
+(dp54
+g2
+Vdress_code
+p55
+sg4
+S'No dress code needs to be followed'
+p56
+ssI18
+(dp57
+g2
+Vdress_code_follow
+p58
+sg4
+S'No dress code needs to be followed'
+p59
+ssI19
+(dp60
+g2
+Vhowdi
+p61
+sg4
+S'Hi, there!'
+p62
+ssI20
+(dp63
+g2
+Vperson_judg
+p64
+sg4
+S"What's the fun in revealing everything"
+p65
+ssI21
+(dp66
+g2
+Vnumber_team_shortlist_round_1
+p67
+sg4
+S'Get in top 10-12 teams'
+p68
+ssI22
+(dp69
+g2
+Vmuch_particip_fee
+p70
+sg4
+S'Free'
+p71
+ssI23
+(dp72
+g2
+Vselect_criteria_round_1
+p73
+sg4
+S'Atleast One feature working end-to -end'
+p74
+ssI24
+(dp75
+g2
+Vmentor
+p76
+sg4
+S"What's the fun in revealing everything"
+p77
+ssI25
+(dp78
+g2
+Vnumber_minimum_team_member_requir
+p79
+sg4
+S'Team of 2-4 Members'
+p80
+ssI26
+(dp81
+g2
+Vqualifi_round_1
+p82
+sg4
+S'Get in top 10-12 teams'
+p83
+ssI27
+(dp84
+g2
+S'long_hackathon'
+p85
+sg4
+S'8 hours'
+p86
+ssI28
+(dp87
+g2
+Vopen_sourc_softwar_allow
+p88
+sg4
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
+p89
+ssI29
+(dp90
+g2
+Vcharg_station
+p91
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p92
+ssI30
+(dp93
+g2
+S'place_hackathon'
+p94
+sg4
+S'7:00:00 AM'
+p95
+ssI31
+(dp96
+g2
+Vwear_casual_cloth
+p97
+sg4
+S'No dress code needs to be followed'
+p98
+ssI32
+(dp99
+g2
+Vnumber_peopl_particip
+p100
+sg4
+S'Team of 2-4 Members'
+p101
+ssI33
+(dp102
+g2
+S'hey'
+p103
+sg4
+S'Hi, there!'
+p104
+ssI34
+(dp105
+g2
+Vmaximum_team_member
+p106
+sg4
+S'Team of 2-4 Members'
+p107
+ssI35
+(dp108
+g2
+S'hi'
+p109
+sg4
+S'Hi, there!'
+p110
+ssI36
+(dp111
+g2
+S'team_size'
+p112
+sg4
+S'Team of 2-4 Members'
+p113
+ssI37
+(dp114
+g2
+Vuse_open_sourc_softwar
+p115
+sg4
+S'Yes, you can make use of Open source libraries, softwaresor APIs'
+p116
+ssI38
+(dp117
+g2
+Vregistr_charg
+p118
+sg4
+S'Free'
+p119
+ssI39
+(dp120
+g2
+Vplug_point
+p121
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p122
+ssI40
+(dp123
+g2
+Vsocket
+p124
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p125
+ssI41
+(dp126
+g2
+Vcontact_case_issu
+p127
+sg4
+S'Any CSI Member will guide you for the event'
+p128
+ssI42
+(dp129
+g2
+Vselect_multipl_problem_statement
+p130
+sg4
+S'Only One problem statement is allowed'
+p131
+ssI43
+(dp132
+g2
+Velectr_socket
+p133
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p134
+ssI44
+(dp135
+g2
+S'full_form_csi'
+p136
+sg4
+S'Computer Society of india'
+p137
+ssI45
+(dp138
+g2
+Vget_certif
+p139
+sg4
+S'Yes, Top 3 teams will be rewarded with money and certificates'
+p140
+ssI46
+(dp141
+g2
+S'time_hackathon'
+p142
+sg4
+S'7:00:00 AM'
+p143
+ssI47
+(dp144
+g2
+Vperson_particip
+p145
+sg4
+S'No pre-requisite is required, anyone from 2nd, 3rd and 4th year can participate'
+p146
+ssI48
+(dp147
+g2
+Vreport_time
+p148
+sg4
+S'7:00:00 AM'
+p149
+ssI49
+(dp150
+g2
+Vnumber_team_qualifi_round_1
+p151
+sg4
+S'Get in top 10-12 teams'
+p152
+ssI50
+(dp153
+g2
+Vpower_suppli
+p154
+sg4
+S'Yes, internet conenction, charging points and sockets will be available'
+p155
+ssI51
+(dp156
+g2
+Vnumber_maximum_team_member_allow
+p157
+sg4
+S'Team of 2-4 Members'
+p158
+ssI52
+(dp159
+g2
+Vnumber_minimum_team_member_necessari
+p160
+sg4
+S'Team of 2-4 Members'
+p161
+ssI53
+(dp162
+g2
+S'hello'
+p163
+sg4
+S'Hi, there!'
+p164
 ss.

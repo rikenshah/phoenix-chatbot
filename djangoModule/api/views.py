@@ -34,29 +34,29 @@ def index(request):
 
 		print numCommon
 
-
-		# if numCommon==0 or numCommon==1:
-		# 	tempScore = 0;
-		# 	maxScore = 0
-		# 	for key,value in c.iteritems():
-		# 		tempScore = 0;
-		# 		temp1 = value['keywords'].split("_")
-		# 		for t in temp1:
-		# 			synsetsNew = wordnet.synsets(t)[0]
-		# 			if not synsetsNew(q):
-		# 				continue
-		# 			else:
-		# 				for q in query_keywords:
-		# 					if not wordnet.synsets(q):
-		# 						continue
-		# 					else:
-		# 						print wordnet.synsets(q)
-		# 						tempScore = tempScore + synsetsNew[0].wup_similarity(wordnet.synsets(q)[0])
-						
-		# 				if tempScore>maxScore:
-		# 					print maxScore
-		# 					maxScore = tempScore
-		# 					print "key is :"+key
+		def cal_similarity():
+			if numCommon==0 or numCommon==1:
+				tempScore = 0;
+				maxScore = 0
+				for key,value in c.iteritems():
+					tempScore = 0;
+					temp1 = value['keywords'].split("_")
+					for t in temp1:
+						synsetsNew = wordnet.synsets(t)[0]
+						if not synsetsNew(q):
+							continue
+						else:
+							for q in query_keywords:
+								if not wordnet.synsets(q):
+									continue
+								else:
+									print wordnet.synsets(q)
+									tempScore = tempScore + synsetsNew[0].wup_similarity(wordnet.synsets(q)[0])
+							
+							if tempScore>maxScore:
+								print maxScore
+								maxScore = tempScore
+								print "key is :"+key
 
 
 
