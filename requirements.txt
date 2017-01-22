@@ -1,4 +1,5 @@
 Django==1.10.5
+django-cors-headers==2.0.0
 nltk==3.2.2
 pkg-resources==0.0.0
 six==1.10.0
