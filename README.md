@@ -64,15 +64,3 @@ First module is developed in Django, which basically works as an API, which comm
 - Navigate to `phoenix-chatbot/Bot` and Open `Bot.html` in a web browser. 
 
 Hurrayyy, Done.
-
-
-### Meta
-
-Team Name - Phoenix
-
-Contributors : 
-  - Riken Shah
-  - Deesha Shah
-  - Ronak Thakkar
-  - Harsh Patel
-
