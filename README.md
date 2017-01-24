@@ -22,6 +22,7 @@ First module is developed in Django, which basically works as an API, which comm
 ### Features
 
 - Dynamic Training
+- Spoken Output
 - Can be trained in according to user needs
 - Stand-alone modules, API can be used in other application
 - Easy to work with (Simple text file upload for training)
@@ -64,3 +65,6 @@ First module is developed in Django, which basically works as an API, which comm
 - Navigate to `phoenix-chatbot/Bot` and Open `Bot.html` in a web browser. 
 
 Hurrayyy, Done.
+
+Output - 
+
