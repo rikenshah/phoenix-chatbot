@@ -68,3 +68,4 @@ Hurrayyy, Done.
 
 Output - 
 
+![output](https://raw.githubusercontent.com/rikenshah/phoenix-chatbot/master/images/1.png)
